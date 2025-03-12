@@ -12,26 +12,6 @@ const seedUsers = [
     password: "123456",
     profilePic: "https://randomuser.me/api/portraits/women/7.jpg",
   },
-  {
-    email: "amelia.garcia@example.com",
-    fullName: "Amelia Garcia",
-    password: "123456",
-    profilePic: "https://randomuser.me/api/portraits/women/8.jpg",
-  },
-
-  // Male Users
-  {
-    email: "james.anderson@example.com",
-    fullName: "James Anderson",
-    password: "123456",
-    profilePic: "https://randomuser.me/api/portraits/men/1.jpg",
-  },
-  {
-    email: "william.clark@example.com",
-    fullName: "William Clark",
-    password: "123456",
-    profilePic: "https://randomuser.me/api/portraits/men/2.jpg",
-  },
 
 ];
 
